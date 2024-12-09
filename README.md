@@ -60,6 +60,10 @@ Skjár hjá Player 3
 
 
 
+https://github.com/user-attachments/assets/d974b3ee-8017-435a-bc4f-839d2add2342
+
+
+
 
 
 
