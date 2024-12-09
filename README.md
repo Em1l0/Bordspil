@@ -17,3 +17,6 @@ Tölvan fær eitt sýnilegt spil sem allir geta séð, en hitt er falið. Leikme
 
 
 Ef það kemur á skjáinn að þú hafir fengið 1 virkar hann eins og ás í alvöru spili og er talinn sem 11 nema ef þú ferð yfir 21.
+
+
+![image](https://github.com/user-attachments/assets/e57610b5-51e4-4206-91fa-f0d04b00f391)
