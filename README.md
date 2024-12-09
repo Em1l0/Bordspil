@@ -20,3 +20,5 @@ Ef það kemur á skjáinn að þú hafir fengið 1 virkar hann eins og ás í a
 
 
 ![image](https://github.com/user-attachments/assets/e57610b5-51e4-4206-91fa-f0d04b00f391)
+
+![image](https://github.com/user-attachments/assets/b150e7f2-1419-4210-bb82-2888da8fa88d)
