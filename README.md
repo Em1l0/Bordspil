@@ -3,6 +3,7 @@ VESM1VS05AU - Lokaverkefni.
 Emil, Sayed og Snæbjörn.
 
 # Blackjack.
+<img src="https://github.com/Em1l0/Bordspil/blob/main/myndir/FinishedBox.jpeg" width="50%" height="50%">
 
 ### Markmið.
 Í Blackjack spila allir á móti gjafara(Talvan). Spilarar fá öll spilin upp og fyrsta spil gjafarans(Talvan) snýr upp og hitt snýr niður. Markmið leiksins er að komast nær 21 en gjafarinn(Talvan) án þess að fara yfir 21. Ef hönd fer yfir 21, ertu úr leik.
