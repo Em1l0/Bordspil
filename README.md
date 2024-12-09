@@ -12,6 +12,6 @@ Emil, Sayed og Snæbjörn.
 
 Tölvan fær eitt sýnilegt spil sem allir geta séð, en hitt er falið. Leikmenn fá svo sín spil og hver um sig hefur möguleika á að velja 'Hit' eða 'Stand' þegar þeirra takkar lýsast upp. Ef þú velur 'Hit', færðu annað spil, og ef samtalan fer yfir 21 stig, ertu úr leik og næsti spilari tekur við. Ef samtalan fer ekki yfir 21, getur þú valið aftur á milli 'Hit' og 'Stand'. Ef þú velur 'Stand', lýkur þinni umferð og næsti leikmaður heldur áfram.
 
-Þegar allir leikmenn hafa annaðhvort farið yfir 21 eða lokið sínum umferðum, fær tölvan að gera sína umferð. Ef tölvan hefur hærri samtölu en allir spilarar án þess að fara yfir 21, vinnur tölvan. Ef einhverjir leikmenn hafar hærri samtölu en tölvan, vinna þeir. Ef tölvan fer yfir 21, vinna allir sem fóru ekki yfir 21 sjálfir. Annars er samtefli ef bæði talvan og leikmaður hafa sömu tölu.
+Þegar allir leikmenn hafa annaðhvort farið yfir 21 eða lokið sínum umferðum, fær tölvan að gera sína umferð. Ef tölvan hefur hærri samtölu en allir spilarar án þess að fara yfir 21, vinnur tölvan. Ef einhverjir leikmenn hafar hærri samtölu en tölvan, vinna þeir. Ef tölvan fer yfir 21, vinna allir sem fóru ekki yfir 21 sjálfir. Annars er jafntefli ef bæði tölvan og leikmaður hafa sömu tölu.
 
 
