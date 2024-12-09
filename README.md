@@ -22,3 +22,46 @@ Ef það kemur á skjáinn að þú hafir fengið 1 virkar hann eins og ás í a
 ![image](https://github.com/user-attachments/assets/e57610b5-51e4-4206-91fa-f0d04b00f391)
 
 ![image](https://github.com/user-attachments/assets/b150e7f2-1419-4210-bb82-2888da8fa88d)
+
+
+
+## Setja Saman Box.
+<img src="https://github.com/Em1l0/Bordspil/blob/main/myndir/Box.jpeg" width="50%" height="50%">
+
+<img src="https://github.com/Em1l0/Bordspil/blob/main/myndir/Buttons.jpeg" width="50%" height="50%">
+
+<img src="https://github.com/Em1l0/Bordspil/blob/main/myndir/WiresSide.jpeg" width="50%" height="50%">
+
+<img src="https://github.com/Em1l0/Bordspil/blob/main/myndir/Wires.jpeg" width="50%" height="50%">
+
+<img src="https://github.com/Em1l0/Bordspil/blob/main/myndir/AllWiresDone.jpeg" width="50%" height="50%">
+
+<img src="https://github.com/Em1l0/Bordspil/blob/main/myndir/BoxAbove.jpeg" width="50%" height="50%">
+
+
+## lodun.
+
+ON/OFF takki
+<img src="https://github.com/Em1l0/Bordspil/blob/main/myndir/OnOffLodun.jpeg" width="50%" height="50%">
+
+Skjár hjá húsinu
+<img src="https://github.com/Em1l0/Bordspil/blob/main/myndir/HusidLodun.jpeg" width="50%" height="50%">
+
+Skjár hjá Player 1
+<img src="https://github.com/Em1l0/Bordspil/blob/main/myndir/Player1Lodun.jpeg" width="50%" height="50%">
+
+Skjár hjá Player 3
+<img src="https://github.com/Em1l0/Bordspil/blob/main/myndir/Player3Lodun.jpeg" width="50%" height="50%">
+
+
+
+
+
+
+
+
+
+
+
+
+
