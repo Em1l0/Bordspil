@@ -15,3 +15,4 @@ Tölvan fær eitt sýnilegt spil sem allir geta séð, en hitt er falið. Leikme
 Þegar allir leikmenn hafa annaðhvort farið yfir 21 eða lokið sínum umferðum, fær tölvan að gera sína umferð. Ef tölvan hefur hærri samtölu en allir spilarar án þess að fara yfir 21, vinnur tölvan. Ef einhverjir leikmenn hafar hærri samtölu en tölvan, vinna þeir. Ef tölvan fer yfir 21, vinna allir sem fóru ekki yfir 21 sjálfir. Annars er jafntefli ef bæði tölvan og leikmaður hafa sömu tölu.
 
 
+Ef það kemur á skjáinn að þú hafir fengið 1 virkar hann eins og ás í alvöru spili og er talinn sem 11 nema ef þú ferð yfir 21.
